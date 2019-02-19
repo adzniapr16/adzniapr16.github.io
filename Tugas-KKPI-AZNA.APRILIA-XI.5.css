@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="layout.css" />
+	<title>TUGAS KKPI</title>
+</head>
+<body> 
+body{
+	width: 960px
+	margin:30px auto;
+}
+
+	<header>
+		<div>.logo</div>
+		<h1>Adzniapr.com</h1>
+		<h2>BERSAMA KITA BISA</h2>
+		.logo{
+ 	width: 100%;
+ 	height:auto;
+ 	background: #99D9EA;
+ 	text-align: center;
+ }		<div>.navigasi</div>
+ 		<h1>HOME</h1> <h2>BLOGS</h2> <h3>ABOUT</h3> <h4>GALLERY</h4> <h5>CONTACT</h5>
+ 		.navigasi{
+ 	width: 100%
+ 	height:auto;
+ 	background: #99D9EA;
+ 	text-align: center;
+ }	
+	</header>
+
+ 	<main>
+ 		<div>.konten</div>
+ 		<h1>MY BIODATA</h1>
+ 		<h2>Tentang Azna</h2>
+			<h3>Nama saya Azna Aprilia Nur islami, saya lahir di Bogor 16 April 2002, Saya adalah anak bungsu dari 3 Bersaudara. Hobi saya membuat sebuah blog, tapi sekarang udah jarang. Kalau ditanya sekarang lagi sibuk ngapain. ya gitu gitu aja sih.Coba gitu ya bingung aja. Terus abis lulus nanti mau Kemana?
+				Insyallah Rencana Kerja dulu. Jujur sebenernya pingin kuliah tapi jurusan di luar kimia. ya Intinya mah jalanin dulu aja yang sekarang. yang penting Usaha dan doanya harus di tingkatin.
+		<h2>Sekolah</h2>
+			<p>saya bersekolah di <a>SMK-SMAK BOGOR</a> Kesan selama di SMAKBO, alhamdulillah. Di Nikmati aja.Mungkin awal awal berat banget. Bagi saya SMAKBO itu jauh diluar ekspetasi saya pas kelas. Tapi sekarang di jalanin nya yang penting ikhlas
+ 		.konten{
+ 	width: 70%
+ 	background: #EFE4B0;
+}
+		<div>.sidebar</div>
+		.sidebar{
+ 	width: 30%
+ 	background:#FD7E00;}
+ main {
+ 	display: flex;
+ }
+ .logo,
+ .navigasi,
+ .konten,
+ .sidebar,
+ .footer {
+ 	margin-bottom: 5px;
+ 	padding: :15px 0;
+ } 
+	<footer>
+ 		<div .footer">FOOTER</div>
+ 		.footer{
+ 	width: 100%
+ 	background:#C3C3C3;
+ 	text-align: center;
+ }
+ 	</footer>
+
+</body>
+</html>
